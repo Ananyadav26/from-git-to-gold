@@ -1,0 +1,5 @@
+project_type: standalone
+variables_dir: ~/.mage_data
+variables_retention_period: 90d
+help_improve_mage: false
+project_uuid: ec268b3e0e5144c3aef062157854ef85

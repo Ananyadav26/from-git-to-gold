@@ -1,0 +1,6 @@
+mage-ai==0.9.80
+pandas
+scikit-learn
+numpy
+matplotlib
+joblib
